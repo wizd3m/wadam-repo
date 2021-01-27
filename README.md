@@ -8,3 +8,4 @@ This repository contains some applications needed to build my version of archiso
 * Initiated this repo and gave the folder the wrong name.
 * Also added the necessary files for calamares and calamares itself
 * Small changes to calamares config
+* Some more changes to calamares config
