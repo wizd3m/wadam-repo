@@ -10,3 +10,4 @@ This repository contains some applications needed to build my version of archiso
 * Small changes to calamares config
 * Some more changes to calamares config times 4
 * added netinstall to calamares
+* added feather icons TTF
