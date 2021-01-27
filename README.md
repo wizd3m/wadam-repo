@@ -5,4 +5,5 @@ This repository contains some applications needed to build my version of archiso
 
 2021-01-27
 
-Initiated this repo and made a booboo. Gave the folder the wrong name.
+Initiated this repo and gave the folder the wrong name.
+Also added the necessary files for calamares.
