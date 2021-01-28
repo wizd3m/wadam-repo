@@ -19,3 +19,4 @@ This repository contains some applications needed to build my version of archiso
 * added ttf-envy-code-r
 * added kitty config
 * another change to calamares config x3
+* added user config to calamares
