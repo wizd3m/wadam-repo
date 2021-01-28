@@ -18,4 +18,4 @@ This repository contains some applications needed to build my version of archiso
 * added polybar and dependencies
 * added ttf-envy-code-r
 * added kitty config
-* another change to calamares config
+* another change to calamares config x2
