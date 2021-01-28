@@ -11,3 +11,10 @@ This repository contains some applications needed to build my version of archiso
 * Some more changes to calamares config times 4
 * added netinstall to calamares
 * added feather icons TTF
+
+2021-01-28
+
+* created from scratch, will update this repo asap
+* added polybar and dependencies
+* added ttf-envy-code-r
+* added kitty config
