@@ -21,3 +21,7 @@ This repository contains some applications needed to build my version of archiso
 * another change to calamares config x3
 * added user config to calamares
 * added autotiling
+
+2021-01-30
+
+* added my sddm theme
